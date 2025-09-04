@@ -1,1 +1,1 @@
-# C Language Mini Projects made by your's truly!
+# C Language Mini Projects made by an aspiring programmer!
